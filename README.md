@@ -2,7 +2,6 @@
 
 This project aims to detect fraudulent online transactions using Machine Learning techniques. The rise in online payments has been accompanied by an increase in financial fraud, making fraud detection systems more crucial than ever. This system uses transaction data to train models that identify potentially fraudulent behavior in financial transactions.
 
----
 
 📁 Dataset Source**
 
